@@ -1,7 +1,6 @@
 # import the opencv library
 import cv2
 import numpy as np
-from skimage import io
 # define a video capture object
 vid = cv2.VideoCapture(0)
 
